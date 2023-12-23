@@ -1,0 +1,70 @@
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\bin\Debug\net8.0\appsettings.json
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\bin\Debug\net8.0\Baraja Española.exe
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\bin\Debug\net8.0\Baraja Española.deps.json
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\bin\Debug\net8.0\Baraja Española.runtimeconfig.json
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\bin\Debug\net8.0\Baraja Española.dll
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\bin\Debug\net8.0\Baraja Española.pdb
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\obj\Debug\net8.0\Baraja Española.csproj.AssemblyReference.cache
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\obj\Debug\net8.0\Baraja Española.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\obj\Debug\net8.0\Baraja Española.AssemblyInfoInputs.cache
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\obj\Debug\net8.0\Baraja Española.AssemblyInfo.cs
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\obj\Debug\net8.0\Baraja Española.csproj.CoreCompileInputs.cache
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\obj\Debug\net8.0\Baraja Española.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\obj\Debug\net8.0\Baraja Española.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\obj\Debug\net8.0\staticwebassets\msbuild.Baraja Española.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\obj\Debug\net8.0\staticwebassets\msbuild.build.Baraja Española.props
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Baraja Española.props
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Baraja Española.props
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\obj\Debug\net8.0\scopedcss\bundle\Baraja Española.styles.css
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\obj\Debug\net8.0\Baraja Española.csproj.CopyComplete
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\obj\Debug\net8.0\Baraja Española.dll
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\obj\Debug\net8.0\refint\Baraja Española.dll
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\obj\Debug\net8.0\Baraja Española.pdb
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\obj\Debug\net8.0\Baraja Española.genruntimeconfig.cache
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\obj\Debug\net8.0\ref\Baraja Española.dll
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Nati\source\repos\Baraja Española\Baraja Española\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
